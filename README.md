@@ -24,7 +24,10 @@ Pré-requisitos: Python 3.10+ instalado em sua máquina.
 **1. Clone o repositório:**
 ```bash
 git clone [https://github.com/seu-usuario/omnichannel-etl-pipeline.git](https://github.com/seu-usuario/omnichannel-etl-pipeline.git)
+
 cd omnichannel-etl-pipeline
+
+```
 
 2. Crie o ambiente virtual:
 
