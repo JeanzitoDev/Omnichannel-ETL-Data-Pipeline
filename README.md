@@ -29,13 +29,13 @@ cd omnichannel-etl-pipeline
 
 ```
 
-***2. Crie o ambiente virtual:***
+**2. Crie o ambiente virtual:**
 
 ```python
 python -m venv venv
 ```
 
-***3. Ative o ambiente virtual:***
+**3. Ative o ambiente virtual:**
 
 No Linux/macOS:
 
@@ -49,7 +49,7 @@ No Windows:
 venv\Scripts\activate
 ```
 
-***4. Instale as dependências:***
+**4. Instale as dependências:**
 
 ```python
 pip install -r requirements.txt
